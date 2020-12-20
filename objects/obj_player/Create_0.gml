@@ -1,5 +1,7 @@
 event_inherited();
 
+application_surface_draw_enable(false);
+
 talking = noone;
 talking_t = 0;
 
